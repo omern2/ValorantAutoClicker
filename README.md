@@ -58,33 +58,23 @@ Whether you play ranked solo queue or compete in organized matches, **never lose
 
 ### 🇬🇧 English
 
-```bash
-# 1. Download the latest release
-# 2. Extract and run ValorantAutoClicker.exe
-# 3. Launch Valorant and start a game
-# 4. The tool will automatically detect the agent selection screen
-```
+1. Run `ValorantAutoClicker.exe`
+2. Click **"Set Position"** next to your 1st or 2nd choice agent slot
+3. Move your cursor to your agent on screen — it auto-saves after **3 seconds**
+4. Adjust **Click Speed** (default: 10ms) and **Repeat Duration** if needed
+5. Press **▶ Start (F6)** or hit `F6` — done!
 
-**Steps:**
-1. Run `ValorantAutoClicker.exe` as Administrator
-2. Click **"Set Agent"** and hover over your desired agent — press `F1` to save position
-3. Toggle the tool **ON** with the hotkey (default: `F2`)
-4. Queue into a match — your agent will be locked automatically!
+> 💡 You can set **2 agent preferences** — if your first pick is taken, it goes for the second.
 
 ### 🇹🇷 Türkçe
 
-```bash
-# 1. Son sürümü indirin
-# 2. Arşivi çıkarın ve ValorantAutoClicker.exe'yi çalıştırın
-# 3. Valorant'ı açın ve oyun başlatın
-# 4. Araç otomatik olarak ajan seçim ekranını tespit edecektir
-```
+1. `ValorantAutoClicker.exe`'yi çalıştırın
+2. **1. veya 2. Tercih** yanındaki **"Pozisyonu Ayarla"** butonuna tıklayın
+3. İmleci istediğiniz ajanın üzerine götürün — **3 saniye** sonra otomatik kaydedilir
+4. **Tıklama Hızı** (varsayılan: 10ms) ve **Tekrarlama Süresi**'ni ayarlayın
+5. **▶ Başlat (F6)** butonuna veya `F6` tuşuna basın — hazır!
 
-**Adımlar:**
-1. `ValorantAutoClicker.exe`'yi Yönetici olarak çalıştırın
-2. **"Ajan Ayarla"** butonuna tıklayın, istediğiniz ajanın üzerine gelin — `F1` ile konumu kaydedin
-3. Kısayol tuşuyla (varsayılan: `F2`) aracı **AÇ** konumuna getirin
-4. Maça girin — ajanınız otomatik olarak kilitlenecektir!
+> 💡 **2 ajan tercihi** ayarlayabilirsiniz — ilk tercihiniz alınmışsa ikincisine geçer.
 
 ---
 
