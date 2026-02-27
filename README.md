@@ -13,6 +13,12 @@
 
 **🇹🇷 Türkçe** | **🇬🇧 English**
 
+<br>
+
+[![Download](https://img.shields.io/badge/⬇️%20Download%20Latest%20Release-FF4655?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/omern2/ValorantAutoClicker/releases/latest)
+
+> 💡 Click the button above to download the latest `.exe` — no installation required, just run and play.
+
 </div>
 
 ---
@@ -177,4 +183,3 @@ Bu araç işinize yaradıysa, repoya **⭐ yıldız** bırakın — bu çok şey
 *Lock in. Win out.*
 
 </div>
-
