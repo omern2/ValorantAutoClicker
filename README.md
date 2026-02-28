@@ -12,7 +12,7 @@
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](https://github.com)
 
 **🇹🇷 Türkçe** | **🇬🇧 English**
-
+Nasıl kulanılır : https://www.instagram.com/autoclicker.v/
 <br>
 
 [![Download](https://img.shields.io/badge/⬇️%20Download%20Latest%20Release-FF4655?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/omern2/ValorantAutoClicker/releases/latest)
